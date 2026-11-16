@@ -1,0 +1,61 @@
+========================================================================
+COGNIFYZ TECHNOLOGIES — DATA ANALYSIS INTERNSHIP FINAL SUBMISSION
+========================================================================
+Intern Name     : Faisal Reyaz
+Reference ID    : CTI/A1/C430431
+Email           : faisalreyaz00@gmail.com
+Phone           : +91 7970518556
+LinkedIn        : https://www.linkedin.com/in/faisal-reyaz-871217367/
+GitHub          : https://github.com/faisalreyaz
+Tools Used      : Microsoft Excel (Dynamic Formulas, Pivot Analysis,
+                  Conditional Formatting, Scatter & Bar Charts)
+Dataset         : Cognifyz Restaurant Dataset (9,551 records, 21 fields)
+========================================================================
+
+FOLDER STRUCTURE:
+1. 01_Level_Wise_Excel_Reports/
+   - Level_1_Data_Analysis.xlsx  (Data + 5 structured sheets for Level 1)
+   - Level_2_Data_Analysis.xlsx  (Data + 4 structured sheets for Level 2)
+   - Level_3_Data_Analysis.xlsx  (Data + 3 structured sheets for Level 3)
+
+2. 02_Master_Combined_Workbook/
+   - Cognifyz_All_Levels_Master_Report.xlsx (All 13 sheets arranged serially)
+
+3. Executive_Summary_Report.txt (This summary document)
+
+------------------------------------------------------------------------
+KEY ANALYTICAL HIGHLIGHTS (ALL 3 LEVELS — 11 TASKS)
+------------------------------------------------------------------------
+LEVEL 1:
+- Task 1 (Top Cuisines): North Indian leads (3,960 restaurants | 41.46%),
+  followed by Chinese (2,735 | 28.64%) and Fast Food (1,986 | 20.79%).
+- Task 2 (City Analysis): New Delhi has the highest outlet count (5,473 |
+  57.30%); Inner City holds the highest overall average rating (4.90).
+- Task 3 (Price Range): Budget dining (Price Range 1) captures 46.53%
+  (4,444 restaurants), followed by Price Range 2 at 32.59% (3,113).
+- Task 4 (Online Delivery): 25.66% (2,451) offer online delivery and earn
+  a higher average rating (3.25) than non-delivery outlets (2.47).
+
+LEVEL 2:
+- Task 1 (Ratings): 3.0 - 3.4 is the most common rating tier (2,490
+  restaurants | 26.07%); overall average votes per restaurant is 156.91.
+- Task 2 (Cuisine Combinations): Standalone "North Indian" (936) and
+  "North Indian, Chinese" (511) are the most common combinations.
+- Task 3 (Geographic Analysis): India represents 90.59% (8,652 outlets)
+  with a dense spatial cluster around Delhi-NCR (28.5°N, 77.2°E).
+- Task 4 (Restaurant Chains): 734 multi-outlet chains operate 2,839
+  outlets; Cafe Coffee Day leads in count (83) and Barbeque Nation leads
+  in total customer votes (28,142 | 4.35 avg rating).
+
+LEVEL 3:
+- Task 1 (Review Sentiment & Length): Neutral ("Average" = 3,737) is the
+  most frequent sentiment; average text length is 7.02 characters with no
+  linear correlation to rating (r = -0.19).
+- Task 2 (Votes Analysis): Barbeque Nation holds the brand total record
+  (28,142 votes), Toit Bangalore holds the single-outlet record (10,934),
+  and 1,094 restaurants have 0 votes. Moderate positive correlation exists
+  between votes and rating (r = +0.31).
+- Task 3 (Service Availability vs. Price Range): Table booking rises
+  sharply with price (0.02% in Tier 1 to 46.76% in Tier 4), while online
+  delivery peaks in mid-range dining (41.31% in Tier 2 vs. 9.04% in Tier 4).
+========================================================================
